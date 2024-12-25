@@ -8,6 +8,7 @@ A GitHub action uses OpenAI's GPT-4 to perform automated code reviews. When you 
 - Add it as a GitHub secret
 - Setup an action that runs on every PR
 
+
 ```YAML
 name: 'code-review'
 on: # rebuild any PRs and main branch changes
